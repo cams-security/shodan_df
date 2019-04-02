@@ -1,4 +1,3 @@
-__author__ = 'cam'
 import shodan, pandas as pd
 class ShodanDf :
     def __init__(self):
